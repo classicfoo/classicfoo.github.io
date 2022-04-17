@@ -15,7 +15,9 @@
 	width:350px;
 }
 
-
+#result {
+	height: 20px;
+}
 
 #inputLength {
 	margin-top:10px;
