@@ -9,5 +9,5 @@ function generate() {
 		resultstring += randchar;	
 	}
 	
-	document.getElementById("result").innerHTML = resultstring;
+	document.getElementById("result").innerHTML = "<mark>" + resultstring + "</mark>";
 }
