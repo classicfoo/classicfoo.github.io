@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width" charset="UTF-8">
+		<link rel="stylesheet" href="classicfoo_style.css">
+		<link rel="stylesheet" href="renox_style.css">
+	</head>
+	
+	<body onload="generate()">
+
+		<h1>Renox Random Name Generator</h1>
+
+		<p>Use the below letters and let it prompt you to make a cool name out of it. E.g. RNQXI might be "Renox".</p>
+		
+				
+		<h2>Result</h2>
+		<p id="result"></p>
+
+
+		<h2>Parameters</h2>
+		<div id="contents">
+			<div id="fieldName"> Length </div> <input type="text" id="inputLength" class="newline" value=5>
+			<div></div>
+			<div id="fieldName"> Characters </div> <textarea id="inputString" class="newline">ABCDEFGHIJKLMNOPQRSTUVWXYZ</textarea>
+
+		</div>
+
+		<input id="generate" type="button" value="Generate" onclick="generate() "autofocus> 
+
+		<a href="../index.html">Back</a>
+
+	 	<script src="renox_script.js"></script>
+	</body>
+</html>
