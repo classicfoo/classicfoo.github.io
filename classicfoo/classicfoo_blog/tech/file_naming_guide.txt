@@ -1,0 +1,29 @@
+File Naming Guide
+By: Michael Huynh  
+Created: 7th April 2022  
+Last Updated: 7th April 2022  
+
+Introduction
+This is a simplified file naming guide designed to work on the most amount of systems and provide an easier and more consistent format for naming files. 
+
+Character Limits
+Only the lowercase characters a-z and digits 0-9 are allowed to be used for naming files and folders. These words will then be separated by only the underscore character. This will provide consistency as both files and folders will be named with the same convention. It will also be interchangable between Windows, Mac and Linux. There is no confusion between hyphens and underscores since only underscores will be used as the delimiter.
+
+File Extensions
+Best to add a file extension the the files that you create. For example if you're creating a text file, then end the file name with .txt. Even though Linux does not require you to use file extensions, it doesn't hurt to add them in anyway. This way, you can transfer these files to a Windows environment and it will still work. 
+
+Keywords
+When naming a file, think about what keywords you may want to use when it comes time to searching them again. Depending on the situation, you may want to include date created, date the document is intended for, name of author and/or version number.  
+
+Concise File Names
+Keep the file names short and use abbreviations where applicable. No more than 5 words is advised. There are limits to how long paths can be and problems can arise when they get too long.
+
+Custom Order
+If the files need to be sorted by name to give them a custom order, think about how many items could potentially be in the folder. If it's not likely that there will be > 100 items, then add 2 digits for the number index. E.g. 01, 02 … 99.
+
+Order by date created
+A good way to order by date created is to use the "military date format" [1]. I call it that because I had a colleage who had a relative in the army that used this format and he said he adopted it and used it for everything. It is a date entered at the beginning of a filename starting with the year then month then day. For example: 220409 would stand for 2022 April 9th. This is readable, concise and quick to write. The format only has to be explained to a person for the first time if unfamilar with this format. Whether you write YYYY or YY, depends on whether the files will likely live past the year 2099. YYYY is more explicit and can be useful for files that still need to be added after 2099. YY is more human readable and so for a list of diary entries, I know that it's not likely I will not live past 2099 or at least doing any more diary entries after that point. Worst case, we can still use a utility like [bulk rename utility].
+
+Links and References
+[1]: https://www.reddit.com/r/NoStupidQuestions/comments/eyvmib/why_does_the_us_military_write_dates_like_this/
+[bulk rename utility]: https://www.bulkrenameutility.co.uk/Download.php

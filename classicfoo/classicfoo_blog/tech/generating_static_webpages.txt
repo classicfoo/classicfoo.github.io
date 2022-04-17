@@ -1,0 +1,9 @@
+A Guide To Publishing Static Webpages
+By: Michael Long Huynh
+Created: 09/04/22
+Last Updated: 09/04/22
+
+Everyone's a publisher now. Everyone has a voice. 
+
+It's a process. You start with text files which are quick and easy way to write. These text files need to be edited formatted into markdown so that it can be ready for publishing. Finally we convert the markdown file to HTML. The HTML file is then ready to be uploaded to the server. 
+
