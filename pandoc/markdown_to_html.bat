@@ -1,0 +1,1 @@
+pandoc --standalone --template template_classicfoo.html %1 -f markdown-auto_identifiers -t html -o %~n1.html

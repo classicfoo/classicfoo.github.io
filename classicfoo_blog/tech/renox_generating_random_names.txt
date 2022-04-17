@@ -1,0 +1,8 @@
+Randomly Generating Names For Files
+Author: Michael Huynh
+Created: 17/04/22
+Modified: 17/04/22
+
+Use a random letter generator. You can use [Renox] or you can find one online. Having such a system simplifies things alot. We are all human so it makes sense to make names that are cool sounding and easy to remember. This tools serves to aid in this process of coming up with a name for files, but you can really use it for naming anything. 
+
+[Renox](https://classicfoo.github.io/random_names/renox_rng.html)
