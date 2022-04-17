@@ -1,3 +1,5 @@
-# Classicfoo Tools - A Collection Of Online Tools
+# Classicfoo
 
-A collection of online tools published at [classicfoo.github.io](http://classicfoo.github.io).</p>
+A place for blog entries and online tools.
+
+Published at [classicfoo.github.io](http://classicfoo.github.io).</p>
