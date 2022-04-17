@@ -18,3 +18,7 @@ input[type=button], input[type=submit], input[type=reset] {
 	margin-bottom:20px;
 	padding:10px;
 }
+
+li {
+	padding-bottom: 10px;
+}
