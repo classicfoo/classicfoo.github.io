@@ -1,12 +1,8 @@
-div {
-	padding-bottom:10px;
-}
+
 
 #generate {
 	display:block;
 	margin-top:20px;
-	margin-bottom:40px;
-	margin-right:10px;
 }
 
 .newline {
@@ -19,13 +15,7 @@ div {
 	width:350px;
 }
 
-/*
-#resultContainer {
-	background-color:whitesmoke;
-	padding:10px;
-	margin-bottom:20px;
-	max-width:400px;
-}*/
+
 
 #inputLength {
 	margin-top:10px;
