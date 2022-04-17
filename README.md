@@ -1,5 +1,5 @@
 # Classicfoo
 
-A place for blog entries and simple online web apps.
+A collection of simple web apps hosted on github.io.
 
 Published at [classicfoo.github.io](http://classicfoo.github.io).</p>
